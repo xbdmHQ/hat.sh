@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@mui/material": "^5.0.0",
-    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.0.0",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "libsodium-wrappers": "^0.7.13",
     "marked": "4.0.16",
