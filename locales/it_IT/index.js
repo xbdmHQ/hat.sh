@@ -2,7 +2,7 @@ const it_IT = {
   language_name: "Italiano",
   
   // Menu
-  sub_title: "Una semplice, veloce e sicura crittografia di file in locale",
+  sub_title: "Crittografia file in locale nel browser in modo semplice, veloce e sicuro",
   home: "Home",
 
   // Settings
@@ -23,8 +23,8 @@ const it_IT = {
   understand: "HO CAPITO",
 
   // Common
-  file: "il file",
-  files: "i file",
+  file: "file",
+  files: "file",
   password: "Password",
   public_key: "Chiave pubblica",
   private_key: "Chiave privata",
@@ -63,7 +63,7 @@ const it_IT = {
   moderate: "Media",
   good: "Buona",
   strong: "Forte",
-  crackTimeEstimation: "tempo di calcolo stimato per crackare la password:",
+  crackTimeEstimation: "Stima tempo di violazione:",
   less_second: "meno di un secondo",
   seconds: "secondi",
   minutes: "minuti",
